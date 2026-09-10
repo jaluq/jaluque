@@ -1,2 +1,0 @@
-# jaluque
-Blog de escritor
